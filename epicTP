@@ -1,4 +1,4 @@
-_G.speed = 400 -- set this lower to make it slower
+
 local bodyvelocityenabled = true -- set this to false if you are getting kicked
 
 local Imput = game:GetService("UserInputService")
